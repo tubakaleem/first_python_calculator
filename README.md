@@ -17,4 +17,12 @@ I built this project as a personal challenge — to see if I could start small, 
 
 1. Clone this repository:
    ```bash
-   git clone <repo-url>
+    git clone https://github.com/tubakaleem/first_python_calculator.git
+   
+2. Install dependencies (NumPy):
+pip install numpy
+
+3.Run the calculator:
+python calculator.py
+
+
